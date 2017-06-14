@@ -1,0 +1,22 @@
+body {
+	background-color: #cb7503;
+}
+
+button, select {
+	display: block;
+	margin: 10px auto;
+}
+
+#grid {
+	height: 600px;
+	width: 600px;
+	margin: auto;
+	font-size: 0;
+	background-color: lightblue;
+}
+
+.square {
+	display: inline-block;
+	background-color: black;
+	opacity: 0;
+}
